@@ -1,7 +1,10 @@
-  #Fallout PCB Badge made on 7/2
+  Fallout PCB Badge made on 7/2
+  
   Image of Peashooter :)
 
+
   Bill of Materials
+  
   Nothing extra
 
   
